@@ -1,8 +1,8 @@
-# DLSS
-Super Sampling Images to ```16``` Times Their Resolution using Convolutional Neural Networks <br/>
+# Deep Learned Super Sampling
+Super Sampling Images to ```16``` Times Their Orignal Size using Convolutional Neural Networks <br/>
 
 # Inspiration
-This [Computerphile Video](https://www.youtube.com/watch?v=_DPRt3AcUEY) inpsired me to try to code a DLSS program
+This [Computerphile Video](https://www.youtube.com/watch?v=_DPRt3AcUEY) inpsired me to try to code a DLSS program <br/>
 
 # Results
 I compared [Nearest Neighbor](https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#PIL.Image.Image.resize) Interpolation to my Deep Learned Super Sampling program <br/>
