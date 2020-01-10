@@ -7,4 +7,4 @@ This [Computerphile Video](https://www.youtube.com/watch?v=_DPRt3AcUEY) inpsired
 # Results
 The original images are 64x64. I compared [Nearest Neighbor](https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#PIL.Image.Image.resize) Interpolation to my Deep Learned Super Sampling program
 
-![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/results/zoe.gif)
+![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/league%20GIF.gif)
