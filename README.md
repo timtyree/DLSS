@@ -10,7 +10,8 @@ Due to memory constraints, I can only work with smaller images
 I compared [Nearest Neighbor](https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#PIL.Image.Image.resize) Interpolation to my Deep Learned Super Sampling program <br/>
 Here I am upsampling from ```64x64``` to ```256x256``` which is equivalent to increasing the size by ```16``` times
 
-![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/league%20GIF.gif)
+![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/zoe.gif)
+![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/zoe2.gif)
 
 # Model Architecture
 ![model](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/DLSS.JPG)
