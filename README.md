@@ -14,4 +14,4 @@ Here I am upsampling from ```64x64``` to ```256x256``` which is equivalent to in
 ![zoe](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/zoe2.gif)
 
 # Model Architecture
-![model](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/DLSS.JPG)
+![model](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/model.png)
