@@ -15,3 +15,5 @@ Here I am upsampling from ```64x64``` to ```256x256``` which is equivalent to in
 
 # Model Architecture
 ![model](https://raw.githubusercontent.com/vee-upatising/DLSS/master/Results/model.png)
+
+# [Kaggle Notebook](https://www.kaggle.com/function9/deep-learned-super-sampling)
